@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DaniilTuT
 - 👀 I’m interested in ... learning everything I can
-- 🌱 I’m currently learning ... HTML, CSS, JS, Vue js
+- 🌱 I’m currently learning ... c# and read Manning pro ASP.NET 7
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @SomeSimpleTag in TG
 
 <!---
 DaniilTuT/DaniilTuT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
