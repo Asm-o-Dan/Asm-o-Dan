@@ -1,4 +1,4 @@
-!-- Dark Theme GitHub README -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Asm’o’Dan&fontColor=ffffff&fontSize=60&desc=Architect%20of%20Silence%20|%20Code%20Alchemist%20|%20Intent%20Interpreter&descSize=16&descAlignY=75" />
 </p>
@@ -13,7 +13,7 @@
              A S M ’ O ’ D A N
 
 
----
+```---
 
 🧠 About Me
 
@@ -68,7 +68,7 @@ Telegram: @gandapas_d
 
 
 
----
+
 
 <p align="center">
   <em style="color:#777;">"Structure is freedom. Architecture is intention."</em>
