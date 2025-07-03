@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Asm’o’Dan&fontColor=ffffff&fontSize=60&desc=Architect%20of%20Silence%20|%20Code%20Alchemist&descAlign=60&descAlignY=70" alt="Asm’o’Dan banner"/>
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Asm’o’Dan&fontColor=ffffff&fontSize=60&desc=Architect%20of%20Silence%20|%20Code%20Alchemist%20|%20Intent%20Interpreter&descSize=16&descAlignY=75" />
+</p
 
 ---
 
