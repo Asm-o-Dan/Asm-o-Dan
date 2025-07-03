@@ -1,10 +1,76 @@
-- 👋 Hi, I’m @DaniilTuT
-- 👀 I’m interested in ... learning everything I can
-- 🌱 I’m currently learning ... c# and read Manning pro ASP.NET 7
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @SomeSimpleTag in TG
+!-- Dark Theme GitHub README -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Asm’o’Dan&fontColor=ffffff&fontSize=60&desc=Architect%20of%20Silence%20|%20Code%20Alchemist%20|%20Intent%20Interpreter&descSize=16&descAlignY=75" />
+</p>
 
-<!---
-DaniilTuT/DaniilTuT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```text
+       ___             _       _           _     
+      /   |  ____ ___ (_)___  (_)__  _____(_)___ 
+     / /| | / __ `__ \/ / __ \/ / _ \/ ___/ / __ \
+    / ___ |/ / / / / / / / / / /  __(__  ) / /_/ /
+   /_/  |_/_/ /_/ /_/_/_/ /_/_/\___/____/_/ .___/ 
+                                         /_/      
+             A S M ’ O ’ D A N
+
+
+---
+
+🧠 About Me
+
+🎓 Software Engineering student @ Tiraspol Institute of Physics and Technology
+
+💻 Backend Developer with passion for scalable, layered architectures
+
+🧩 Specializes in C#, CQRS, Clean Architecture, Vector Databases (Qdrant), AI/NLP
+
+⚙️ Builds Telegram bots, OCR pipelines, load-balanced systems and data sync services
+
+🌐 Loves transforming abstract ideas into structured code
+
+
+> “I don’t just write code — I structure possibility.”
+
+
+
+
+---
+
+🛠️ Tech Stack
+
+Languages:       C#, Python, SQL  
+Architectures:   CQRS, Clean, Layered  
+Databases:       PostgreSQL, Qdrant, SQLite  
+Tools & Libs:    Tesseract, Telegram.Bot, EF Core, ASP.NET Core, Dapper  
+Other:           Git, Regex, JSON, REST, Markdown
+
+
+---
+
+📡 Currently Exploring
+
+🔍 Vector Search with Qdrant + NLP
+
+🧠 Natural Language to Code/Intent mapping
+
+🧰 Event-based systems & failover design
+
+📚 Writing smarter bots with context awareness
+
+
+
+---
+
+📫 Contact
+
+GitHub: github.com/Asm-o-Dan
+
+Telegram: @gandapas_d
+
+
+
+---
+
+<p align="center">
+  <em style="color:#777;">"Structure is freedom. Architecture is intention."</em>
+</p>
+```
