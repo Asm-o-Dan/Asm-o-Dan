@@ -38,7 +38,7 @@
 ## 📫 Contact
 
 - **GitHub:** [Asm-o-Dan](https://github.com/Asm-o-Dan)
-- **Telegram:** [@gandapas_d](https://t.me/gandapas_d)
+- **Telegram:** [@SomeSimpleTag](https://t.me/SomeSimpleTag)
 
 <p align="center">
   <em style="color:#777;">"Structure is freedom. Architecture is intention."</em>
