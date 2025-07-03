@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Asm’o’Dan&fontColor=ffffff&fontSize=60&desc=Architect%20of%20Silence%20|%20Code%20Alchemist&descAlign=60&descAlignY=70" alt="Asm’o’Dan banner"/>
 </p>
 
-<pre>
-___              __          __             
-   /   |  ____  ____/ /__  _____/ /_  ___  _____
-  / /| | / __ \/ __  / _ \/ ___/ __ \/ _ \/ ___/
- / ___ |/ /_/ / /_/ /  __/ /  / / / /  __/ /    
-/_/  |_/ .___/\__,_/\___/_/  /_/ /_/\___/_/     
-      /_/                                      
-         A S M ' O ' D A N
-</pre>
 
 ---
 
